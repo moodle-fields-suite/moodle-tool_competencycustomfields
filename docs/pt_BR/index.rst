@@ -14,7 +14,7 @@ moodle-tool_competencycustomfields
 * **Controle de quem vê cada valor.** Cada campo é visível para todos, só para quem pode editar os valores ou para ninguém.
 * **Pronto para integrações.** O web service ``local_fieldssuite_get_values`` devolve os valores que o usuário pode ver.
 
-Faz parte da `Moodle Fields Suite <https://moodle-fields-suite.github.io>`_; requer o `local_fieldssuite <https://moodle-fields-suite.github.io/local_fieldssuite/>`_.
+Faz parte da `Moodle Fields Suite <https://moodle-fields-suite.github.io>`_; requer o `local_fieldssuite <https://moodle-fields-suite.github.io/moodle-local_fieldssuite/>`_.
 
 English version: `English <../en/index.html>`_.
 
@@ -29,4 +29,4 @@ English version: `English <../en/index.html>`_.
 Links
 -----
 
-* Código-fonte e issues: https://github.com/moodle-fields-suite/tool_competencycustomfields
+* Código-fonte e issues: https://github.com/moodle-fields-suite/moodle-tool_competencycustomfields
